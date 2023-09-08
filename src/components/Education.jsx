@@ -3,7 +3,7 @@ import ubclogo from '../assets/ubclogo.png'
 
 const Education = () => {
     return (
-        <div id='education' className='w-full bg-gradient-to-b from-[#2f575d] to-[#658b6f] py-16 px-4'>
+        <div id='education' className='w-full bg-gradient-to-b from-[#393476] to-[#658b6f] py-16 px-4'>
             <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
                 <img className='w-[500px] mx-auto my-4 px-16 py-8' src={ubclogo} alt='/'/>
                 <div classnName='flex flex-col justify-center'>

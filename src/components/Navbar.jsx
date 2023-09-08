@@ -11,7 +11,7 @@ const Navbar = () => {
 
     return (
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
-            <motion.h1 animate={{x:50}} className='w-full text-3xl font-bold text-[#00d8a4]'>MELANIE KENT</motion.h1>
+            <motion.h1 animate={{x:50}} className='w-full text-2xl font-bold text-[#00d8a4]'>MELANIE KENT</motion.h1>
             <ul className='hidden md:flex font-medium'>
                 <a href='.'>
                     <li className='p-4 text-[#948aff]'>About</li>
