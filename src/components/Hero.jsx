@@ -19,6 +19,9 @@ const Hero = () => {
                 <a href="mailto:melanie.s.kent@gmail.com">
                     <button className='bg-[#00d8a4] w-[140px] rounded-md font-bold my-8 mx-auto py-3 text-[#222222] hover:bg-[#948aff]'>Contact Me</button>
                 </a>
+                <p className='text-sm mt-10 font-bold p-12 text-[#707794]'> 
+                    **Please note that this website is under construction, and as such many of the features will not be working.
+                </p>
             </div>     
         </div>
     )

@@ -23,10 +23,10 @@ import vscode from '../assets/vscode.png'
 
 const Experience = () => {
     return (
-        <div className='bg-gradient-to-b from-[#658b6f] to-[#ffffff]'>
+        <div className='bg-gradient-to-b from-[#658b6f] to-[#ffffff] overflow-hidden'>
             <div id="things-i-have-dabbled-in" className='box-border m-0 p-0 text-center'>
-            <p>Things I Have Dabbled In</p>
-                <div id="slider" className='whitespace-nowrap overflow-hidden inline-block py-4'>
+            <p className='text-2xl font-bold text-[#ffffff] pt-20'>Things I Have Dabbled In ...</p>
+                <div id="slider" className='whitespace-nowrap inline-block py-12'>
                     <div id="imgs-slide" className='inline-flex animate-[slide_40s_linear_infinite]'>
                         <img src={bootstrap} className='h-[80px] w-[80px] mx-10 rounded-2xl' alt="Bootstrap" />
                         <img src={bash} className='h-[80px] w-[80px] mx-10 rounded-2xl' alt="Nash" />
