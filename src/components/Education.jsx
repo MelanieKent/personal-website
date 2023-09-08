@@ -17,6 +17,10 @@ const Education = () => {
                     <p className='text-[#ffffff] mt-8 font-medium'>
                         Courses taken:
                         <br/> <br/>
+                        CPSC 311 - Definition of Programming Languages (In-progress)
+                        <br/>
+                        CPSC 310 - Introduction to Software Engineering (In-progress)
+                        <br />
                         CPSC 304 - Introduction to Relational Databases
                         <br/>
                         CPSC 210 - Software Construction
