@@ -8,7 +8,7 @@ const Hero = () => {
                 <p className='text-[#6683c1] text-xl font-medium p-2'>Hello, I'm</p>
                 <h1 className='text-[#ffffff] md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>Melanie_Kent</h1>
                 <p className='sm:text-2xl text-md font-light pt-4 text-[#00d8a4]'> 
-                    // A third-year software engineering student @ UBC.
+                    // B.Sc computer science candidate @ UBC :)
                 </p>
                 <div className='flex justify-center items-center'>
                     <p className='text-[#6683c1] lg:text-4xl sm:text-3xl font-medium py-4'>I am passionate about</p>

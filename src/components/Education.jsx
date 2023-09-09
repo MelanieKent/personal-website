@@ -8,7 +8,7 @@ const Education = () => {
                 <img className='w-[500px] mx-auto my-4 px-16 py-8' src={ubclogo} alt='/'/>
                 <div classnName='flex flex-col justify-center'>
                     <p className='text-[#00d8a4] font-bold text-xl'>University of British Columbia</p>
-                    <h1 className='text-[#ffffff] md:text-4xl sm:text-3xl text-2xl font-bold py-2'> BSc Computer Science and Software Engineering 2020 - 2025</h1>
+                    <h1 className='text-[#ffffff] md:text-4xl sm:text-3xl text-2xl font-bold py-2'> BSc Computer Science Software Engineering Opt. 2020 - 2025</h1>
                     <p className='text-[#ffffff] mt-8 font-medium'> I am entering my third year of the program. In addition to majoring in computer science, I am part of the software engineering stream
                        that allows qualified students to take additonal specified software engineering courses to gain a deeper understanding of software development. 
                        I was proud to be serving as an undergraduate teaching assisant for CPSC 100 in Summer T2 2023.
