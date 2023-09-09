@@ -11,7 +11,7 @@ const Education = () => {
                     <h1 className='text-[#ffffff] md:text-4xl sm:text-3xl text-2xl font-bold py-2'> BSc Computer Science and Software Engineering 2020 - 2025</h1>
                     <p className='text-[#ffffff] mt-8 font-medium'> I am entering my third year of the program. In addition to majoring in computer science, I am part of the software engineering stream
                        that allows qualified students to take additonal specified software engineering courses to gain a deeper understanding of software development. 
-                       I will be an undergraduate teaching assisant for CPSC 100 in Summer 2023.
+                       I was proud to be serving as an undergraduate teaching assisant for CPSC 100 in Summer T2 2023.
                         <br/>
                     </p>
                     <p className='text-[#ffffff] mt-8 font-medium'>
